@@ -29,5 +29,8 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Docs
+/documentation/
+
 # Misc
 *.tgz
